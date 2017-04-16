@@ -1,5 +1,5 @@
 /*
-s    Script: QuoteScript
+    Script: QuoteScript
     Author: Mikal Callahan
     Web:    http://mikalcallahan.me
             https://github.com/mikalcallahan
