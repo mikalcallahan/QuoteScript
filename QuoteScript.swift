@@ -1,3 +1,4 @@
+#!/usr/bin/swift
 /*
     Script: QuoteScript
     Author: Mikal Callahan
@@ -7,8 +8,6 @@
 
     TODO: Colorize Quote
  */
-
- // #!/usr/bin/swift
 
 import Foundation
 
